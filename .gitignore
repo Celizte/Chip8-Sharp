@@ -1,0 +1,5 @@
+bin/
+obj/
+
+*.ch8
+Release/
